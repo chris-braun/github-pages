@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <rect
+    width="16"
+    height="16"
+    fill="white"
+  />
+  <rect
+    width="8"
+    height="8"
+    fill="black"
+  />
+  <rect
+    x="8"
+    y="8"
+    width="8"
+    height="8"
+    fill="black"
+  />
+  <rect
+    width="16"
+    height="16"
+    fill="none"
+    stroke="darkgray"
+    stroke-width="2"
+    stroke-dasharray="2"
+  />
+  <line x1="16" y1="0" x2="0" y2="16" stroke="magenta" />
+  <line x1="0" y1="0" x2="16" y2="16" stroke="cyan" />
+</svg>
